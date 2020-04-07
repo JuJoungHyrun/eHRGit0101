@@ -25,13 +25,13 @@
   2.1. 하위아이템  
   2.1.1 하위아이템
   
-  ---python
+  --- python
   def func();
   print "HR Kia"
   pass
   ---
   
-  --javascript
+  --- javascript
   var data "HR Spring";
   data.song = "??";
   ---
